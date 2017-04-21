@@ -1,3 +1,6 @@
+//author: Stephanie Broadwell
+//lab# 11
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
